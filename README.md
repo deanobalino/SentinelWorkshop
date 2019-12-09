@@ -1,0 +1,2 @@
+# SentinelWorkshop
+Azure Sentinel Workshop
