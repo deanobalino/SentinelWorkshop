@@ -4,7 +4,7 @@
     </a>
 </div>
 
-# 09 - Design Patterns
+# 09 - Design Considerations
 
 Please refer to the presentation for this part of the workshop.
 
