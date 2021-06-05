@@ -11,7 +11,7 @@ Welcome to the Cloud Native SecOps with Azure Sentinel workshop! This workshop w
 
 * An Azure Subscription
   * Ideally this is a PAYG subscription where you have full administrator permissions. We'll be performing some actions on Azure AD and other services that may require this level of access. 
-  * You can sign up for a new Azure accout [here](https://azure.microsoft.com/free/?WT.mc_id=sentinelworkshop-github-debryen)
+  * You can sign up for a new Azure accout [here](https://azure.microsoft.com/free/?WT.mc_id=devops-0000-debryen)
 
 
 ### Agenda
